@@ -1,0 +1,7 @@
+List Folder :
+Admin (Ga usah di ubah sma apus ini cuman buat contoh cara nampilin data edit sma delete)
+Client (Yg di edit (baru jadi forn end))
+Server (Di dalemnya ada file route.php itu ada perintah parameter/url buat API e (contoh : parkir/search (Buat nyari data)))
+Template (Templat adminya)
+
+Mangat bng  
